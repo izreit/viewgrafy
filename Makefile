@@ -1,5 +1,5 @@
 # Copyright (c) 2013 Reitaro IZU
-# Relased under the MIT license. See LICENSE for more detail.
+# Released under the MIT license. See LICENSE for more detail.
 
 PROJECT_NAME = viewgrafy
 
